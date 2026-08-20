@@ -8,6 +8,7 @@ The 27 categories are mapped into 9 broader buckets (Food, Housing, Healthcare,
 Energy & Utilities, Transportation & Communication, Education, Clothing &
 Footwear, Personal Care, Essential Services) and five business questions are
 answered with live formulas, every figure traces back to the raw data.
+
 --- 
 
 ## Case Study Preview
