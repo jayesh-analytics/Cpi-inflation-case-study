@@ -1,10 +1,17 @@
-# India CPI Inflation — Analytical Case Study (Excel)
+# CPI Inflation — Analytical Case Study (Excel)
 
-An end-to-end CPI (Consumer Price Index) analysis of India built entirely in Excel from the raw
-Government of India NSO dataset — cleaning, imputation, bucket design, formula-driven analytics
-and a one-page executive summary. No hardcoded analytics: every number traces back to a formula.
+An end-to-end Excel case study on India's Consumer Price Index, built from raw
+NSO (MoSPI) data covering **Jan 2013 – May 2023**, across **Rural, Urban and
+Rural+Urban** sectors and **27 published categories**.
 
-**Deliverable:** `CPI_Inflation_Case_Study.xlsx` (10 sheets)
+The 27 categories are mapped into 9 broader buckets (Food, Housing, Healthcare,
+Energy & Utilities, Transportation & Communication, Education, Clothing &
+Footwear, Personal Care, Essential Services) and five business questions are
+answered with live formulas, every figure traces back to the raw data.
+--- 
+
+## Case Study Preview
+![CPI Contribution](Assets/Contribution.png)
 
 ---
 
@@ -12,7 +19,7 @@ and a one-page executive summary. No hardcoded analytics: every number traces ba
 
 | Item | Detail |
 |---|---|
-| Source | National Statistical Office (NSO), Government of India |
+| Source | [Coding Ninjas](https://www.codingninjas.com/) |
 | Coverage | Jan 2013 – May 2023, monthly |
 | Sectors | Rural, Urban, Rural+Urban |
 | Categories | 27 published categories (23 used after excluding aggregates) |
